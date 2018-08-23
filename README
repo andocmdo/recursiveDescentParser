@@ -1,0 +1,10 @@
+COMP215 Recursive Descent Parser
+Andy Sisinger
+4/2/2016
+
+Compiled on Linux with:
+c99 -o finallyWorking.out parser.c
+
+Run with:
+./finallyWorking.out
+
